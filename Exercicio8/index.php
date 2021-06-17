@@ -15,7 +15,7 @@
     <p>Grupo de Imagens
 
     <select name="grupoImagens" class="form-select" arial-label="Default select example">
-    <option selected>Selecione</option>
+    <option value="" disabled selected>Selecione</option>
     <option value="Animais">Animais</option>
     <option value="Cidades">Cidades</option>
     <option value="Flores">Flores</option>

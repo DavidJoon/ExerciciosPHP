@@ -10,7 +10,7 @@
 <body>
 
 <div class="container border m-3">
-<h1> Verificar se o nome é Par ou Impar </h1>
+<h1> Verificar se o número é Par ou Impar </h1>
 <form action= "parimpar.php" method= "POST">
   
   <div class="mb-3">
