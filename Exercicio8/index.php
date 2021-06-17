@@ -8,7 +8,7 @@
     <title>Banco de Imagens</title>
 </head>
 <body>
-<div class="container border m-4 p-4">
+<div class="container border m-4 p-4 mx-auto">
 <h1 class="p-2 m-2 bg-info text-white">Banco de Imagens</h1>
     
     <form action="detalhes.php" method="POST">

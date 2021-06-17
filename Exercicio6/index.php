@@ -8,7 +8,7 @@
     <title>Tabela de Imagens</title>
 </head>
 <body>
-<div class="container border p-2">
+<div class="container border p-2 mt-2">
 <h1 class="text-center">Tabela de Imagens</h1>
     
     <form action="tabela.php" method="POST">
